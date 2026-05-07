@@ -25,3 +25,8 @@ Visualize data
 3. Index your GFF file
 4. Load the GC content track
 5. Load the read alignment (coverage)
+
+After loading all files into IGV, you should see your reads and GC:
+<p align="right">
+  <img src="img/macroalga_getorganelle.jpg" width="500">
+</p>
