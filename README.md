@@ -27,6 +27,6 @@ Visualize data
 5. Load the read alignment (coverage)
 
 After loading all files into IGV, you should see your reads and GC:
-<p align="right">
-  <img src="img/macroalga_getorganelle.jpg" width="500">
+<p align="left">
+  <img src="img/macroalga_getorganelle.jpg" width="600">
 </p>
