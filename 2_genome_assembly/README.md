@@ -32,7 +32,7 @@ bash 2_organelle_assembly/run_assembly.sh
 ```
 
 Input: trimmed reads from step 1
-Output: `2_organelle_assembly/macroalga.organelle.fasta`
+Output: `2_organelle_assembly/macroalga.getorganelle.fasta`
 
 ## Key parameters
 
